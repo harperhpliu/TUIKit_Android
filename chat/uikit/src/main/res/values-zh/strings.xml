@@ -1,0 +1,19 @@
+<resources>
+    <string name="uikit_search_hint">搜索</string>
+    <string name="uikit_conversation_list_placeholder">暂无会话</string>
+    <string name="uikit_contact_list_placeholder">暂无联系人</string>
+    <string name="uikit_message_list_placeholder">暂无消息</string>
+    <string name="uikit_message_input_hint">输入消息…</string>
+    <string name="message_list_time_yesterday">昨天</string>
+    <string name="uikit_conversations_title">消息</string>
+    <string name="uikit_contacts_title">通讯录</string>
+    <string name="uikit_start_chat">发起单聊</string>
+    <string name="uikit_create_group">创建群聊</string>
+    <string name="uikit_add_friend">添加好友</string>
+    <string name="uikit_add_group">添加群组</string>
+
+    <string name="uikit_cancel">取消</string>
+    <string name="uikit_confirm">确认</string>
+    <string name="uikit_switch_open">开</string>
+    <string name="uikit_switch_close">关</string>
+</resources>

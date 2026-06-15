@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ChatView</string>
+    <string name="tab_messages">الرسائل</string>
+    <string name="tab_contacts">جهات الاتصال</string>
+    <string name="tab_me">أنا</string>
+    <string name="tab_settings">الإعدادات</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="input_user_id_tips">يرجى إدخال معرّف المستخدم</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="login_hero_title">تسجيل الدخول · المراسلة الفورية</string>
+    <string name="login_hero_subtitle">استمتع بالدردشات الجماعية والمكالمات الصوتية والمرئية والمزيد من ميزات IM</string>
+    <string name="login_user_id_label">معرّف المستخدم</string>
+    <string name="page_conversations_title">الرسائل</string>
+    <string name="page_contacts_title">جهات الاتصال</string>
+    <string name="page_me_title">أنا</string>
+    <string name="page_settings_title">الإعدادات</string>
+    <string name="search_hint">بحث</string>
+    <string name="chat_title">الدردشة</string>
+    <string name="chat_setting_contact_info">معلومات جهة الاتصال</string>
+    <string name="chat_setting_group_info">معلومات المجموعة</string>
+    <string name="message_input_hint">اكتب رسالة…</string>
+
+    <string name="start_chat">بدء دردشة</string>
+    <string name="create_group">إنشاء مجموعة</string>
+    <string name="add_friend">إضافة صديق</string>
+    <string name="add_group">إضافة مجموعة</string>
+    <string name="chat_header_back">رجوع</string>
+    <string name="chat_header_more">المزيد</string>
+    <string name="chat_header_cancel">إلغاء</string>
+    <string name="clear_all_unread_success">تم مسح كل الرسائل غير المقروءة</string>
+    <string name="group_event_kicked">تم طردك من المجموعة: %1$s</string>
+    <string name="group_event_dismissed">مجموعتك %1$s تم حلها</string>
+    <string name="group_event_unknown_group">مجموعة غير معروفة</string>
+
+    <string name="settings_theme">السمة</string>
+    <string name="settings_language">اللغة</string>
+    <string name="settings_current_language">العربية</string>
+    <string name="settings_add_rule">عند إضافتي كصديق</string>
+    <string name="settings_read_receipt">إيصالات قراءة الرسائل</string>
+    <string name="settings_read_receipt_enabled_desc">عند إيقاف هذا الخيار، سيتم إخفاء حالة قراءة الرسائل في جميع الرسائل المرسلة والمستلمة، ولن تتمكن من معرفة ما إذا كان الطرف الآخر قد قرأ الرسائل، كما لن يتمكن الطرف الآخر من معرفة ما إذا كنت قد قرأتها.</string>
+    <string name="settings_read_receipt_disabled_desc">عند تشغيل هذا الخيار، ستعرض جميع الرسائل المرسلة والمستلمة في الدردشات الجماعية حالة القراءة، ويمكنك معرفة ما إذا كان الطرف الآخر قد قرأها. وإذا فعّل صديقك في الدردشة الفردية هذا الخيار أيضًا، فستعرض الرسائل المتبادلة بينكما حالة القراءة.</string>
+    <string name="settings_translate_target_language">الترجمة إلى</string>
+    <string name="settings_self_detail_status">الحالة</string>
+
+    <string name="settings_self_detail_title">التفاصيل</string>
+    <string name="settings_self_detail_account">الحساب</string>
+    <string name="settings_self_detail_nickname">الاسم المستعار</string>
+    <string name="settings_self_detail_gender">النوع</string>
+    <string name="settings_self_detail_birthday">تاريخ الميلاد</string>
+    <string name="settings_self_detail_gender_male">ذكر</string>
+    <string name="settings_self_detail_gender_female">أنثى</string>
+    <string name="settings_self_detail_gender_secret">سري</string>
+    <string name="settings_self_detail_edit_nickname_title">تعديل الاسم المستعار</string>
+    <string name="settings_self_detail_edit_nickname_placeholder">يرجى إدخال الاسم المستعار</string>
+    <string name="settings_self_detail_edit_status_title">تعيين الحالة</string>
+    <string name="settings_self_detail_edit_status_placeholder">ما الذي تفكر فيه الآن</string>
+    <string name="settings_self_detail_pick_avatar_title">اختيار الصورة الرمزية</string>
+
+    <string name="settings_theme_system">اتباع النظام</string>
+    <string name="settings_theme_dark">داكن</string>
+    <string name="settings_theme_light">فاتح</string>
+    <string name="settings_theme_custom">مخصص</string>
+
+    <string name="settings_zh_hans">简体中文</string>
+    <string name="settings_zh_hant">繁體中文</string>
+    <string name="settings_en">English</string>
+    <string name="settings_ar">العربية</string>
+
+    <string name="settings_allow_type_allow_any">السماح للجميع</string>
+    <string name="settings_allow_type_deny_any">رفض الجميع</string>
+    <string name="settings_allow_type_need_confirm">تتطلب التحقق</string>
+</resources>

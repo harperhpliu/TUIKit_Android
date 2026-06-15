@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application>
+
+        <provider
+            android:name=".components.messagelist.utils.FileProvider"
+            android:authorities="${applicationId}.MessageList.FileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/message_list_file_paths" />
+        </provider>
+
+        <activity
+            android:name=".components.filepicker.impl.FilePickerBridgeActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <activity
+            android:name=".components.messageinput.utils.MessageInputAlbumPickerActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AlbumPicker" />
+
+        <activity
+            android:name=".components.videoplayer.ui.VideoPlayerActivity"
+            android:exported="false"
+            android:theme="@style/Theme.VideoPlayer.FullScreen" />
+
+        <activity
+            android:name=".components.videorecorder.view.VideoRecorderBridgeActivity"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <activity
+            android:name=".components.videorecorder.view.VideoRecorderActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".components.messagelist.ui.merged.MergedMessageDetailActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".components.imageviewer.ui.ImageViewerActivity"
+            android:exported="false"
+            android:theme="@style/Theme.VideoPlayer.FullScreen" />
+    </application>
+
+</manifest>

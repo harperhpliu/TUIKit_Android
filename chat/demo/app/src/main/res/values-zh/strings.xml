@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ChatView</string>
+    <string name="tab_messages">消息</string>
+    <string name="tab_contacts">通讯录</string>
+    <string name="tab_me">我的</string>
+    <string name="tab_settings">设置</string>
+    <string name="login">登录</string>
+    <string name="input_user_id_tips">请输入用户 ID</string>
+    <string name="logout">退出登录</string>
+    <string name="login_hero_title">登录·即时通信</string>
+    <string name="login_hero_subtitle">体验群组聊天，音视频对话等 IM 功能</string>
+    <string name="login_user_id_label">用户 ID</string>
+    <string name="page_conversations_title">消息</string>
+    <string name="page_contacts_title">通讯录</string>
+    <string name="page_me_title">我的</string>
+    <string name="page_settings_title">设置</string>
+    <string name="search_hint">搜索</string>
+    <string name="chat_title">聊天</string>
+    <string name="chat_setting_contact_info">联系人信息</string>
+    <string name="chat_setting_group_info">群组信息</string>
+    <string name="message_input_hint">输入消息…</string>
+
+    <string name="start_chat">发起单聊</string>
+    <string name="create_group">创建群聊</string>
+    <string name="add_friend">添加好友</string>
+    <string name="add_group">添加群组</string>
+    <string name="chat_header_back">返回</string>
+    <string name="chat_header_more">更多</string>
+    <string name="chat_header_cancel">取消</string>
+    <string name="clear_all_unread_success">已清空全部未读消息</string>
+    <string name="group_event_kicked">您已被踢出群: %1$s</string>
+    <string name="group_event_dismissed">您所在的群%1$s已解散</string>
+    <string name="group_event_unknown_group">未知群组</string>
+
+    <string name="settings_theme">主题</string>
+    <string name="settings_language">语言</string>
+    <string name="settings_current_language">简体中文</string>
+    <string name="settings_add_rule">加我为好友时</string>
+    <string name="settings_read_receipt">消息阅读状态</string>
+    <string name="settings_read_receipt_enabled_desc">关闭后,您收发的消息均不带消息阅读状态,您将无法看到对方是否已读,同时对方也无法看到您是否已读。</string>
+    <string name="settings_read_receipt_disabled_desc">开启后,您在群聊中收发的消息均带有消息阅读状态,并且可以看到对方是否已读。与您单聊的好友若也开启了消息阅读状态,您与好友在单聊中收发的消息也将带有消息阅读状态。</string>
+    <string name="settings_translate_target_language">翻译目标语言</string>
+    <string name="settings_self_detail_status">签名</string>
+
+    <string name="settings_self_detail_title">详情</string>
+    <string name="settings_self_detail_account">账号</string>
+    <string name="settings_self_detail_nickname">昵称</string>
+    <string name="settings_self_detail_gender">性别</string>
+    <string name="settings_self_detail_birthday">生日</string>
+    <string name="settings_self_detail_gender_male">男</string>
+    <string name="settings_self_detail_gender_female">女</string>
+    <string name="settings_self_detail_gender_secret">保密</string>
+    <string name="settings_self_detail_edit_nickname_title">修改昵称</string>
+    <string name="settings_self_detail_edit_nickname_placeholder">请输入昵称</string>
+    <string name="settings_self_detail_edit_status_title">设置状态</string>
+    <string name="settings_self_detail_edit_status_placeholder">此刻的想法</string>
+    <string name="settings_self_detail_pick_avatar_title">选择头像</string>
+
+    <string name="settings_theme_system">跟随系统</string>
+    <string name="settings_theme_dark">深色</string>
+    <string name="settings_theme_light">浅色</string>
+    <string name="settings_theme_custom">自定义</string>
+
+    <string name="settings_zh_hans">简体中文</string>
+    <string name="settings_zh_hant">繁體中文</string>
+    <string name="settings_en">English</string>
+    <string name="settings_ar">عربي</string>
+
+    <string name="settings_allow_type_allow_any">允许任何人</string>
+    <string name="settings_allow_type_deny_any">拒绝任何人</string>
+    <string name="settings_allow_type_need_confirm">需要验证</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <style name="Theme.ChatView" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#147AFF</item>
+        <item name="colorPrimaryVariant">#0B5CC5</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#147AFF</item>
+        <item name="colorSecondaryVariant">#0B5CC5</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:colorBackground">@color/page_background</item>
+    </style>
+
+    <style name="TabActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:width">36dp</item>
+        <item name="android:height">36dp</item>
+        <item name="android:color">@android:color/transparent</item>
+    </style>
+</resources>
