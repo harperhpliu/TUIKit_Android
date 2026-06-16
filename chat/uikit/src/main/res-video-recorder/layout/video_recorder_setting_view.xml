@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+            android:id="@+id/video_recorder_beauty_filter_scroll_view_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:id="@+id/video_recorder_beauty_panel_view_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+    </RelativeLayout>
+
+    <LinearLayout
+            android:id="@+id/video_recorder_layout_setting_item"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginEnd="16dp"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+    </LinearLayout>
+</RelativeLayout>

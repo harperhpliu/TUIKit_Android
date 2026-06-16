@@ -1,0 +1,20 @@
+<resources>
+    <string name="uikit_search_hint">Search</string>
+    <string name="uikit_conversation_list_placeholder">No conversations</string>
+    <string name="uikit_contact_list_placeholder">No contacts</string>
+    <string name="uikit_message_list_placeholder">No messages</string>
+    <string name="uikit_message_input_hint">Type a message…</string>
+    <string name="message_list_time_yesterday">Yesterday</string>
+    <string name="uikit_conversations_title">Messages</string>
+    <string name="uikit_contacts_title">Contacts</string>
+    <string name="uikit_start_chat">Start Chat</string>
+    <string name="uikit_create_group">Create Group</string>
+    <string name="uikit_add_friend">Add Friend</string>
+    <string name="uikit_add_group">Add Group</string>
+
+    <!-- Base Component -->
+    <string name="uikit_cancel">Cancel</string>
+    <string name="uikit_confirm">Confirm</string>
+    <string name="uikit_switch_open">ON</string>
+    <string name="uikit_switch_close">OFF</string>
+</resources>

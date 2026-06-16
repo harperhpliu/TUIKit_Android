@@ -1,0 +1,20 @@
+<resources>
+    <string name="uikit_search_hint">بحث</string>
+    <string name="uikit_conversation_list_placeholder">لا توجد محادثات</string>
+    <string name="uikit_contact_list_placeholder">لا توجد جهات اتصال</string>
+    <string name="uikit_message_list_placeholder">لا توجد رسائل</string>
+    <string name="uikit_message_input_hint">اكتب رسالة…</string>
+    <string name="message_list_time_yesterday">أمس</string>
+    <string name="uikit_conversations_title">الرسائل</string>
+    <string name="uikit_contacts_title">جهات الاتصال</string>
+    <string name="uikit_start_chat">بدء دردشة</string>
+    <string name="uikit_create_group">إنشاء مجموعة</string>
+    <string name="uikit_add_friend">إضافة صديق</string>
+    <string name="uikit_add_group">إضافة مجموعة</string>
+
+    <!-- Base Component -->
+    <string name="uikit_cancel">إلغاء</string>
+    <string name="uikit_confirm">تأكيد</string>
+    <string name="uikit_switch_open">تشغيل</string>
+    <string name="uikit_switch_close">إيقاف</string>
+</resources>
